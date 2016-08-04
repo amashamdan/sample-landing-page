@@ -1,4 +1,4 @@
 Sample Landing Page
 ===========================================================
 
-This is a sample landing page built with Bootstrap.
+This is a responsive sample landing page built with Bootstrap.
